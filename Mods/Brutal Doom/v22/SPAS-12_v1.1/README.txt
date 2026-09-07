@@ -16,3 +16,13 @@ SPAS-12 sprites :
 The SPAS-12 Decorate code is mostly a copy-paste of Brutal Doom's Shotgun
 
 Code and sprites edits (hands, pump animation...) by Edewaa
+
+------------------------
+Changelog
+------------------------
+v1.1
+* Fixed the Purist SPAS showing a black glove for a brief moment
+* Fixed PuristSPAS12 not being equipped properly for purist players
+* Purists now skip the first select animation for the SPAS, just like other purist weapons
+* Fixed dragon breath projectile being undefined warning
+-- Edewaa  Mon, 7 Sep 2026 10:25:00 +0200
