@@ -1,6 +1,7 @@
 "sounds" and "sprites" folders are meant for modders to make it a bit easier for them
 
-- brutal22-SPAS-12_v1.pk3 : Adds the SPAS-12 as a new weapon
+- brutal22-SPAS-12_v1.1.pk3 : Adds the SPAS-12 as a new weapon
+- brutal22-SPAS-12_v1.1_replace_shotgun.pk3 : Replaces the base shotgun directly instead, the original shotgun won't exist anymore
 - brutal22-SPAS-12_reskin_folded.pk3   : a reskin for Brutal Doom's shotgun
 - brutal22-SPAS-12_reskin_unfolded.pk3 : same, but the stock is unfolded
 - brutal22-SPAS-12_reskin_sounds.pk3   : use with the reskin files to replace the Shotgun sounds
